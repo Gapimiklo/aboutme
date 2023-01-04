@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(1, 65, 87);
+}
+.center {
+    width: 50%;  /* Set the width of the element */
+    margin: auto;  /* Center the element horizontally */
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+}
+.thick {
+    font-weight: bold; /* Make the text bold */
+}
+.content p {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.content h1 {
+    font-size: 70px;
+    position: relative;
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content p1 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.content p2 {
+    font-size: 30px;
+    margin-top: 60px;
+}
+.content p3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.content p4 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.content p5 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.content p6 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.content p7 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.content p8 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.content p9 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.content p10 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+.content p11 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+  
